@@ -54,7 +54,7 @@ File Excel cần có các cột sau:
 
 ## ▶️ Chạy tool
 ```bash
-node index.js tasks.xlsx
+node index.js
 ```
 
 ## 🔧 Troubleshooting
